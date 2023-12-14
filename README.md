@@ -3,6 +3,13 @@
 <h3 align="center"> I'm a QA engineer</h3>
 <h4 align="center">Welcome to my Github profile</h3>
 
+
+- I am passionate about software testing and I would like to test different applications in order to improve their quality and to continue improving my testing skills
+
+- I like to learn pretty much eveything that I find interesting in software development
+
+### This is my portfolio, with all projects and studies that i made;
+
 ### Connect with me:
 
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
